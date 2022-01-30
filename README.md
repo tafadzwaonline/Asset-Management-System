@@ -1,4 +1,4 @@
 # Asset-Management-System
 
-username: admin@gmail.com
-password: pass1234
+1. username: admin@gmail.com
+2. password: pass1234
