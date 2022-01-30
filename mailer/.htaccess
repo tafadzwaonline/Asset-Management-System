@@ -1,0 +1,4 @@
+
+ErrorDocument 404 http://localhost/ksuShopper/404.php
+RewriteCond %{REQUEST_URI} ^/404/$
+RewriteRule ^(.*)$ /ksuShopper/404.php [L]
